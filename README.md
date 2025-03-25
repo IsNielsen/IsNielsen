@@ -5,6 +5,9 @@
 📅 **Expected Graduation: May 2026**  
 📧 isnielsen13@gmail.com  
 🔗 [GitHub Profile](https://github.com/IsNielsen)
+🔗 [School GitLab Profile](https://gitlab.cs.usu.edu/a02363142)
+
+
 
 ## 🔧 Skills & Technologies
 - **Proficient Languages:** Python, Java, JavaScript, HTML/CSS
