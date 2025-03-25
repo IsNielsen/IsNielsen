@@ -48,12 +48,12 @@ Here are some of my notable projects:
 ### [MealsForReals-RecipePlanner](https://github.com/IsNielsen/MealsForReals-RecipePlanner) ![Personal Project](https://img.shields.io/badge/Project-Type-green)
 **Recipe Planner and Meal Organizer**
 - **Languages:** JavaScript (50.1%), Python (36.7%), CSS (7.1%), HTML (6.1%)
-- **Description:** This project is a comprehensive recipe planner and meal organizer. It helps users plan their meals, store recipes, and generate shopping lists. The application is built using a combination of JavaScript for the frontend and Python for backend processing.
+- **Description:** This project is a comprehensive recipe planner and meal organizer. It helps users plan their meals, store recipes, and generate shopping lists. The application is built using the framework Django, with a combination of JavaScript for the frontend and Python for backend processing.
 
 ### [InstaPost](https://github.com/IsNielsen/InstaPost) ![Open Source](https://img.shields.io/badge/Project-Type-brightgreen)
 **Automated Instagram Posting Tool**
 - **Languages:** Python (100%)
-- **Description:** InstaPost is a Python-based tool designed to automate the process of posting on Instagram. It allows users to schedule posts, manage multiple accounts, and analyze engagement metrics to optimize their social media strategy.
+- **Description:** InstaPost is a Python-based tool designed to automate the process of posting on Instagram. Its based on an old open-source project Instabot, and updated for newer versions of python.
 
 ### [JavaSchedulers](https://github.com/IsNielsen/JavaSchedulers) ![School Project](https://img.shields.io/badge/Project-Type-blue)
 **Scheduling and Task Management Library in Java**
