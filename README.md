@@ -1,64 +1,81 @@
-# 👋 Welcome to My GitHub!
+# Isaac Nielsen
 
-## Isaac Nielsen
-📍 **Computer Science Student at Utah State University**  
-📅 **Expected Graduation: May 2026**  
-📧 isnielsen13@gmail.com  
-🔗 [GitHub Profile](https://github.com/IsNielsen)
-🔗 [School GitLab Profile](https://gitlab.cs.usu.edu/a02363142)
+**Founder & Full-Stack Engineer** — building biometric identity and IoT products at the intersection of hardware, cloud, and AI.
 
+Currently finishing a B.S. in Computer Science at Utah State University (3.9 GPA, Dean's List 2025) while running two products out of the USU Sandbox incubator.
 
+📧 isnielsen13@gmail.com · [LinkedIn](https://linkedin.com/in/isaac-nielsen-351282327) · [GitLab (USU)](https://gitlab.cs.usu.edu/a02363142)
 
-## 🔧 Skills & Technologies
-- **Proficient Languages:** Python, Java, JavaScript, HTML/CSS
-- **Languages I've Tinkered With:** Clojure, Haskell, Dart, Prolog, Lua
-- **Web Development:** Full Stack Develoment, Django, Flask
-- **Technical Tools:** Git, Linux, Raspberry Pi, 3D printing & laser cutting software
-- **Problem-Solving:** Debugging, algorithm design, performance optimization
-- **Communication:** Technical writing, documentation, mentoring, and presentations
+---
 
-## 🚀 Experience
-- **Design Lab Manager** @ Utah State University Utah State University Department of Instructional Technology (2024 - Present)
-  - Managed lab equipment (3D printers, laser cutters)
-  - Organized workshops and training sessions
-  - Developed marketing strategies for the lab
+## 🛠 What I Build With
 
-- **Teaching Assistant and Peer Mentor** @ Utah State University Department of Computer Science (2024 - Present)
-  - Assisted students with course material and programming
-  - Graded assignments and provided timely feedback
-  - Held office hours for one-on-one tutoring
+**Core stack**
+`TypeScript` `Next.js` `React` `React Native` `Node.js` `Supabase` `Vercel`
+
+**Embedded & IoT**
+`C++` `ESP32` `Firmware development` `Hardware-to-cloud system design`
+
+**AI & Automation**
+`Claude Code` `Cursor` `n8n` `LLM integration` `Prompt engineering`
+
+**Languages**
+`Python` `Java` `JavaScript` `HTML/CSS` `Clojure (familiar)`
+
+**Tools**
+`Git` `Linux` `REST APIs` `Raspberry Pi`
+
+---
+
+## 🚀 Featured Projects
+
+### [Vouch](https://github.com/IsNielsen) — Biometric eSignature Platform
+`TypeScript` `Next.js` `Supabase` `Vercel`
+
+B2B identity verification for Fintech and SaaS. Replaces legacy eSignature workflows with biometric authentication. Sole engineer — own the full product: architecture, strategy, and go-to-market.
+
+> Currently in active development as a commercial product (USU Sandbox SB05).
+
+---
+
+### [Pillr Health](https://github.com/IsNielsen) — Smart Pill Dispenser
+`C++` `ESP32` `React Native` `Expo Go` `Supabase`
+
+Biometric IoT device for home health companies. ESP32 firmware handles fingerprint sensing and dispensing logic over Wi-Fi; React Native app gives caregivers real-time medication monitoring. Built the full hardware-to-cloud stack — firmware, mobile app, caregiver dashboard — from prototype to shipped product.
+
+> Co-founded inside USU Sandbox SB05 (Aug 2025 – Jan 2026).
+
+---
+
+### [AIContentCreator](https://github.com/Bugs-in-Disguise/AIContentCreator)
+`Python` `HTML` `CSS`
+
+AI tool that generates and schedules social media content for small businesses. Addresses the gap for teams without dedicated marketing resources.
+
+---
+
+### [MealsForReals](https://github.com/IsNielsen/MealsForReals-RecipePlanner)
+`JavaScript` `Python` `Django`
+
+Full-stack recipe planner with meal scheduling and auto-generated shopping lists.
+
+---
+
+## 💼 Experience
+
+**Teaching Assistant & Peer Mentor** — USU Dept. of Computer Science *(Aug 2024 – Present)*
+Serve as primary technical resource for 50+ students per semester. Run structured 10–15 min code reviews covering problem comprehension, design documentation, and live walkthroughs — a format I helped pioneer at USU.
+
+**Design Lab Manager** — USU Dept. of Instructional Technology *(Aug 2024 – Present)*
+Owned daily operations of a makerspace with 3D printers and laser cutters. Maintained 99%+ equipment uptime and ran 10+ hands-on fabrication workshops.
+
+---
 
 ## 🎓 Education
-- **Utah State University** – B.S. in Computer Science (3.9 GPA)
-- **Springville High School** – High School Diploma (3.9 GPA)
 
-## 📌 Interests
-- Open-source software & Linux
-- Machine learning & algorithms
-- 3D printing & hardware tinkering
+**Utah State University** — B.S. Computer Science, Expected May 2026
+3.9 GPA · Dean's List 2025 · Free Software & Linux Club · ACM
 
-## 📂 Projects
-Here are some of my notable projects:
+---
 
-### [AIContentCreator](https://github.com/Bugs-in-Disguise/AIContentCreator) ![Personal Project](https://img.shields.io/badge/Project-Type-blue)
-**AI-Powered Content Curation for Small Businesses**
-- **Languages:** Python (73.6%), HTML (12.7%), CSS (11.9%), Other (1.8%)
-- **Description:** This project addresses the pain point faced by small businesses that lack time, resources, and expertise to consistently create engaging social media content. It provides an AI tool that generates post ideas, curates content, and schedules posts for selected platforms.
-
-### [MealsForReals-RecipePlanner](https://github.com/IsNielsen/MealsForReals-RecipePlanner) ![Personal Project](https://img.shields.io/badge/Project-Type-green)
-**Recipe Planner and Meal Organizer**
-- **Languages:** JavaScript (50.1%), Python (36.7%), CSS (7.1%), HTML (6.1%)
-- **Description:** This project is a comprehensive recipe planner and meal organizer. It helps users plan their meals, store recipes, and generate shopping lists. The application is built using the framework Django, with a combination of JavaScript for the frontend and Python for backend processing.
-
-### [InstaPost](https://github.com/IsNielsen/InstaPost) ![Open Source](https://img.shields.io/badge/Project-Type-brightgreen)
-**Automated Instagram Posting Tool**
-- **Languages:** Python (100%)
-- **Description:** InstaPost is a Python-based tool designed to automate the process of posting on Instagram. Its based on an old open-source project Instabot, and updated for newer versions of python.
-
-### [JavaSchedulers](https://github.com/IsNielsen/JavaSchedulers) ![School Project](https://img.shields.io/badge/Project-Type-blue)
-**Scheduling and Task Management Library in Java**
-- **Languages:** Java (100%)
-- **Description:** This project is a Java library that provides scheduling and task management functionalities. It simplifies the process of creating, managing, and executing scheduled tasks within Java applications. The library is designed to be easy to integrate and highly customizable.
-
-## 🔥 Let's Connect!
-If you’re interested in collaborating on projects or discussing tech, feel free to reach out!
+*Open to internships and collaborations in full-stack, IoT, or AI-adjacent work. Reach out anytime.*
