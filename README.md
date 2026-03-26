@@ -29,7 +29,7 @@ Currently finishing a B.S. in Computer Science at Utah State University (3.9 GPA
 
 ## 🚀 Featured Projects
 
-### [Vouch](https://github.com/IsNielsen) — Biometric eSignature Platform
+### [Vouch](https://vouchsign.vercel.app/) — Biometric eSignature Platform
 `TypeScript` `Next.js` `Supabase` `Vercel`
 
 B2B identity verification for Fintech and SaaS. Replaces legacy eSignature workflows with biometric authentication. Sole engineer — own the full product: architecture, strategy, and go-to-market.
@@ -38,7 +38,7 @@ B2B identity verification for Fintech and SaaS. Replaces legacy eSignature workf
 
 ---
 
-### [Pillr Health](https://github.com/IsNielsen) — Smart Pill Dispenser
+### [Pillr Health](https://pillrcare.com/) — Smart Pill Dispenser
 `C++` `ESP32` `React Native` `Expo Go` `Supabase`
 
 Biometric IoT device for home health companies. ESP32 firmware handles fingerprint sensing and dispensing logic over Wi-Fi; React Native app gives caregivers real-time medication monitoring. Built the full hardware-to-cloud stack — firmware, mobile app, caregiver dashboard — from prototype to shipped product.
